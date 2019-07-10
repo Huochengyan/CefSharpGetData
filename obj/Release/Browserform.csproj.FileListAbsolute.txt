@@ -1,0 +1,13 @@
+G:\AppContainer-master\AppContainer-master\Browserform\obj\Release\Browserform.ChatRecord.resources
+G:\AppContainer-master\AppContainer-master\Browserform\obj\Release\Browserform.Form1.resources
+G:\AppContainer-master\AppContainer-master\Browserform\obj\Release\Browserform.Properties.Resources.resources
+G:\AppContainer-master\AppContainer-master\Browserform\obj\Release\Browserform.csproj.GenerateResource.Cache
+G:\AppContainer-master\AppContainer-master\Browserform\bin\Release\Browserform.exe.config
+G:\AppContainer-master\AppContainer-master\Browserform\bin\Release\Browserform.exe
+G:\AppContainer-master\AppContainer-master\Browserform\bin\Release\Browserform.pdb
+G:\AppContainer-master\AppContainer-master\Browserform\bin\Release\Newtonsoft.Json.dll
+G:\AppContainer-master\AppContainer-master\Browserform\bin\Release\Newtonsoft.Json.xml
+G:\AppContainer-master\AppContainer-master\Browserform\obj\Release\Browserform.exe
+G:\AppContainer-master\AppContainer-master\Browserform\obj\Release\Browserform.pdb
+E:\Projects\custom_service_system\Browserform\obj\Release\Browserform.exe
+E:\Projects\custom_service_system\Browserform\obj\Release\Browserform.pdb
